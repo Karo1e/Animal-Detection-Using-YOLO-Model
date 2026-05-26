@@ -1,0 +1,20 @@
+# Các thư mục đặc thù của YOLO
+datasets/
+weights/
+runs/
+
+# Cache và file biên dịch của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo
+venv/
+.venv/
+env/
+
+# Cấu hình của Jupyter Notebook
+.ipynb_checkpoints/
+
+# File rác do hệ điều hành tự động sinh
+.DS_Store

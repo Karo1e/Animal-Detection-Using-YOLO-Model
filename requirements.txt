@@ -1,0 +1,9 @@
+# Thư viện cốt lõi của kiến trúc YOLO
+ultralytics
+
+# Nền tảng học sâu (Deep Learning Framework)
+torch
+torchvision
+
+# Thư viện xử lý ma trận ảnh
+opencv-python
