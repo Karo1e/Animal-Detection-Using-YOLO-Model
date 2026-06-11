@@ -1,9 +1,6 @@
 # Phát hiện các loài động vật nhờ mô hình YOLO
 (Animal Detection Using YOLO Model)
 
-**Học phần:** Nghiên cứu tốt nghiệp 1  
-**Đơn vị:** Đại học Bách khoa Hà Nội (HUST)  
-
 ---
 
 ## 1. Giới thiệu dự án
