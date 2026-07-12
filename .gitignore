@@ -1,7 +1,9 @@
 # Các thư mục đặc thù của YOLO
 datasets/
-weights/
 runs/
+ngoai_le/
+/weights/*
+!/weights/best.pt
 
 # Cache và file biên dịch của Python
 __pycache__/
@@ -18,3 +20,18 @@ env/
 
 # File rác do hệ điều hành tự động sinh
 .DS_Store
+
+# Tài liệu cá nhân
+bao_cao_gr1_outline.md
+
+# File tạm thời khi biên dịch LaTeX (trên máy local)
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
